@@ -1,0 +1,91 @@
+
+[
+  {
+    "id": "artisan-001",
+    "name": "Karim Uddin",
+    "title": "Master Wood Carver",
+    "location": "Rajshahi, Bangladesh",
+    "experience": 28,
+    "specialty": "Wood",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+      "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=800&q=80"
+    ],
+    "shortBio": "With 28 years of mastery, Karim transforms raw teak and mahogany into heirloom-quality furniture that tells stories of Bangladesh's rich craft heritage.",
+    "fullStory": "Karim Uddin learned the art of wood carving from his father at the age of 10 in the small village of Puthia, Rajshahi. What began as after-school lessons in a dusty workshop has grown into a lifelong devotion to preserving Bangladesh's woodworking traditions. His signature technique — a blend of Mughal-era floral motifs with contemporary clean lines — has made his pieces sought after across the country. Every chisel stroke, Karim says, is a conversation between the wood's natural grain and the craftsman's vision. His workshop now employs 12 young artisans from the local community, ensuring these ancient skills are passed to the next generation.",
+    "videoUrl": "",
+    "products": ["wood-001", "wood-002"],
+    "tags": ["Wood Carving", "Teak", "Heritage Craft"],
+    "instagram": "karim.woodcraft",
+    "featured": true
+  },
+  {
+    "id": "artisan-002",
+    "name": "Fatema Begum",
+    "title": "Bamboo Weaving Artist",
+    "location": "Sylhet, Bangladesh",
+    "experience": 19,
+    "specialty": "Bamboo",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=800&q=80"
+    ],
+    "shortBio": "Fatema's bamboo creations blend centuries-old Sylheti weaving patterns with modern functional design, creating pieces that are both art and utility.",
+    "fullStory": "Growing up in the lush bamboo groves of Sylhet, Fatema Begum spent her childhood watching her grandmother weave intricate baskets and trays for the family. At 16, she began formally studying the craft under the guidance of the Sylhet Handicraft Cooperative. Over 19 years, she has developed a distinctive style that incorporates natural dyes extracted from local plants — turmeric yellows, indigo blues, and madder reds — into her weaves. Her pieces have been exhibited at the Dhaka Craft Fair three times, and she was awarded the National Artisan Recognition Award in 2021. Fatema is passionate about sustainable sourcing, harvesting bamboo only from managed groves that are replanted annually.",
+    "videoUrl": "",
+    "products": ["bamboo-001", "bamboo-003"],
+    "tags": ["Bamboo Weaving", "Natural Dyes", "Sustainable"],
+    "instagram": "fatema.bamboocreations",
+    "featured": true
+  },
+  {
+    "id": "artisan-003",
+    "name": "Rahim Chowdhury",
+    "title": "Cane Furniture Craftsman",
+    "location": "Chattogram, Bangladesh",
+    "experience": 22,
+    "specialty": "Cane",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80"
+    ],
+    "shortBio": "Rahim's cane furniture carries the soul of Chattogram's coastal craftsmanship — light, airy, and built to last through generations of family life.",
+    "fullStory": "Rahim Chowdhury's workshop sits just two streets from the Karnaphuli River in Chattogram, where the humid coastal air has shaped both the man and his craft. He learned cane weaving from his uncle, a furniture maker who supplied pieces to the old colonial-era hotels of the port city. Rahim has since modernized the craft, introducing ergonomic designs that retain the traditional hand-woven cane panels his family has been known for. His signature 'Peacock Chair' — inspired by the ornate cane chairs of the British Raj era — has become an icon of NatureCraft's collection. He sources all his cane from the Chittagong Hill Tracts, working directly with indigenous communities who harvest it sustainably.",
+    "videoUrl": "",
+    "products": ["cane-001", "cane-002"],
+    "tags": ["Cane Weaving", "Coastal Craft", "Ergonomic Design"],
+    "instagram": "rahim.canecraft",
+    "featured": false
+  },
+  {
+    "id": "artisan-004",
+    "name": "Nasrin Akter",
+    "title": "Lacquerware & Finishing Specialist",
+    "location": "Dhaka, Bangladesh",
+    "experience": 14,
+    "specialty": "Wood",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80"
+    ],
+    "shortBio": "Nasrin's expertise in traditional lacquerware finishing gives NatureCraft pieces their signature lustrous sheen — a technique she has refined over 14 years.",
+    "fullStory": "Nasrin Akter discovered her passion for lacquerware finishing while studying fine arts at Dhaka University. Frustrated by the dominance of synthetic finishes in modern furniture, she spent two years researching traditional Bangladeshi lacquer techniques, traveling to workshops in Rajshahi and Comilla to learn from elderly craftspeople. She developed a proprietary natural lacquer formula using locally sourced shellac, linseed oil, and beeswax that is both food-safe and extraordinarily durable. Today, every NatureCraft piece passes through Nasrin's finishing studio in Old Dhaka, where her team of six applies up to seven coats of her signature finish by hand. The result is a depth of color and sheen that no machine can replicate.",
+    "videoUrl": "",
+    "products": ["wood-003"],
+    "tags": ["Lacquerware", "Natural Finishes", "Fine Arts"],
+    "instagram": "nasrin.lacquercraft",
+    "featured": true
+  }
+]
