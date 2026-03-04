@@ -1,0 +1,72 @@
+
+[
+  {
+    "id": "review-001",
+    "productId": "wood-001",
+    "orderId": "NC12345",
+    "authorName": "Tanvir Ahmed",
+    "authorLocation": "Dhaka, Bangladesh",
+    "rating": 5,
+    "title": "Absolutely stunning craftsmanship",
+    "body": "The dining table exceeded every expectation. The grain of the teak is breathtaking and the finish is flawless. Karim's work is truly museum-quality. Delivery was fast and the packaging was exceptional.",
+    "images": [
+      "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=400&q=80"
+    ],
+    "date": "2024-11-15",
+    "verified": true
+  },
+  {
+    "id": "review-002",
+    "productId": "bamboo-003",
+    "orderId": "NC12346",
+    "authorName": "Sadia Islam",
+    "authorLocation": "Chattogram, Bangladesh",
+    "rating": 5,
+    "title": "The pendant lamp transformed my living room",
+    "body": "I was skeptical about ordering furniture online but NatureCraft's photos are 100% accurate. The bamboo lamp is even more beautiful in person. The natural dyes give it a warmth that no synthetic product can match.",
+    "images": [],
+    "date": "2024-11-20",
+    "verified": true
+  },
+  {
+    "id": "review-003",
+    "productId": "cane-002",
+    "orderId": "NC12347",
+    "authorName": "Mahbub Hossain",
+    "authorLocation": "Sylhet, Bangladesh",
+    "rating": 5,
+    "title": "The Peacock Chair is a work of art",
+    "body": "I bought this as a gift for my mother and she cried when she saw it. It reminds her of the chairs in her grandmother's house. The quality is impeccable and it is surprisingly comfortable for long sitting.",
+    "images": [
+      "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&q=80"
+    ],
+    "date": "2024-12-01",
+    "verified": true
+  },
+  {
+    "id": "review-004",
+    "productId": "wood-002",
+    "orderId": "NC12348",
+    "authorName": "Roksana Parvin",
+    "authorLocation": "Rajshahi, Bangladesh",
+    "rating": 5,
+    "title": "Worth every taka",
+    "body": "Premium quality that justifies the price completely. The shelf arrived perfectly assembled and the wood smell is divine. I have already recommended NatureCraft to five of my friends.",
+    "images": [],
+    "date": "2024-12-10",
+    "verified": true
+  },
+  {
+    "id": "review-005",
+    "productId": "bamboo-001",
+    "orderId": "NC12349",
+    "authorName": "Arif Billah",
+    "authorLocation": "Khulna, Bangladesh",
+    "rating": 5,
+    "title": "Sustainable and stunning",
+    "body": "As someone who cares deeply about the environment, I love that NatureCraft uses sustainably sourced materials. The basket set is beautiful and incredibly well-made. I use them daily and they just get better with age.",
+    "images": [],
+    "date": "2024-12-18",
+    "verified": true
+  }
+]
